@@ -8,3 +8,17 @@
 4、繼續保持和電腦的連線，裝置自動升級完成後，電腦會彈出對話方塊，問是否需要格式化？選擇-是;  
 5、關機或者拔除 USB線, 升級完成;  
 6、再次插入USB線, 電腦顯示 ZT-MD1 DISK 以USB盤的型別出現, 包含一個的檔案 record.txt  
+
+
+download links,  
+CN http://www.szzotek.com/  
+EN https://zotektools.com/  
+
+USB-boot mode, ready for firmware upgrade  
+![USB-boot_ready.JPG](USB-boot_ready.JPG)  
+
+upgrade done, format done  
+![ZT-MD1_DISK_firmware_update_done.JPG](ZT-MD1_DISK_firmware_update_done.JPG)  
+
+validate_firmware_version  
+![validate_firmware_version.jpg](validate_firmware_version.jpg)
