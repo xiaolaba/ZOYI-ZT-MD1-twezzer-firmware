@@ -24,5 +24,7 @@ validate_firmware_version
 ![validate_firmware_version.jpg](validate_firmware_version.jpg)
 
 
-### MCU AT32F403A
+### MCU AT32F403ACGU7  
+QFN48, 6x6 ARM M0  
+![MCU_AT32F403A/AT32F403ACGU7.jpg](MCU_AT32F403A/AT32F403ACGU7.jpg)  
 ![MCU_AT32F403A/AT32F403A.png](MCU_AT32F403A/AT32F403A.png)  
